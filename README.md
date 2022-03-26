@@ -1,7 +1,8 @@
 # Python_Data_Science
 Python para Data Science: introdução à linguagem e Numpy e Pandas
 
-•	O que foi aprendido
+	O que foi aprendido:
+  
 •	O ambiente do cientista de dados
 •	As características da linguagem Python
 •	Trabalhar com tipos, variáveis e expressões
